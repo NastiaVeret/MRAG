@@ -1,6 +1,6 @@
 requests~=2.32.3
 torch~=2.7.0
-clip~=1.0
+git+https://github.com/openai/CLIP.git
 faiss-cpu~=1.11.0
 numpy~=2.2.5
 protobuf~=5.29.4
